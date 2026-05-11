@@ -33,6 +33,13 @@ The framework operates in five distinct stages:
 4. **Stage 4 (Hierarchical Clustering):** Mapping risk taxonomies based on $ED_{Shape}$ and $L_{Kurtosis}$.
 5. **Stage 5 (Economic Proof-of-Concept):** Validating risk-adjusted returns via bootstrapped backtesting.
 
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## ✉️ Contact
+Abdullah Sevin - asevin@sakarya.edu.tr
+Project Link: https://github.com/asevin85/GoF-Framework-Symmetry
+
 ## 💻 Installation
 
 ```bash
@@ -41,10 +48,3 @@ git clone [https://github.com/asevin85/GoF-Framework-Symmetry.git](https://githu
 
 # Install required packages
 pip install numpy pandas scipy arch scikit-learn matplotlib seaborn
-
-📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-✉️ Contact
-Abdullah Sevin - asevin@sakarya.edu.tr
-Project Link: https://github.com/asevin85/GoF-Framework-Symmetry
